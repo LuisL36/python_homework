@@ -1,0 +1,3 @@
+function: greetositional aprameters: nonekeyword parameters: nonereturn: None
+function: always_trueositional aprameters: (1, 2, 3)keyword parameters: nonereturn: True
+function: return_decoratorositional aprameters: nonekeyword parameters: {'key': 'value'}return: <function logger_decorator at 0x000002392968AD40>
