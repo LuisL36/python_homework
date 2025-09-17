@@ -1,0 +1,8 @@
+Restricted Sections
+Wikipedia blocks crawling of admin and special pages, like /w/, /wiki/Special:, /wiki/User:, /wiki/Talk:, and /wiki/File:.
+
+User-Agent Rules
+Some rules apply to all bots (User-agent: \*), while others target specific bots.
+
+Purpose of robots.txt
+Websites use robots.txt to show which parts can be accessed by crawlers. This helps protect sensitive data, reduce server load, and make scraping more ethical.
