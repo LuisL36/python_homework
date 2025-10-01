@@ -1,0 +1,1 @@
+The main challenges were finding the correct HTML elements and implementing them in Selenium. I had to take my time and do a slow and efficient inspection of the page source, this really helped extract the data i needed correctly.
