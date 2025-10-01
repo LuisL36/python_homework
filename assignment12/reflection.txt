@@ -1,0 +1,10 @@
+Reflection —
+
+Static vs Interactive Visualizations:
+Static visualizations are simple to produce, print well in written reports, and are excellent for highlighting a single message or finding. Interactive visualizations allow viewers to explore the data by hovering, zooming, filtering, and interacting with elements; this kind of exploration can reveal patterns and outliers that a static image will hide. While static visuals are smaller and easier to archive, interactive visuals facilitate comprehension by enabling stakeholders to test hypotheses in the moment.
+
+Advantages of Dashboards for Real-time Data Exploration:
+Dashboards integrate multiple visuals, filters, and metrics into one interface, enabling quick comparison and monitoring. For speed-of-decision making, dashboards enable users to spot trends, drill into outliers, and slice data along multiple dimensions without re-running scripts. Dashboards are particularly valuable when data comes in real-time or when non-technical users need to interact with data through simple-to-use controls like dropdowns, sliders, and buttons.
+
+How Plotly and Dash Improve Data Communication in the Workplace:
+Plotly and Dash bridge the gap between data analysis and communication by generating professional, web-friendly graphics and deployable applications. They allow analysts to show interactive stories rather than static reports, which improves clarity and stakeholder engagement. With features such as tooltips, dynamic filtering, and embedded dashboards, the platforms promote simpler team collaboration and more rapid, confident decision-making based on data.
